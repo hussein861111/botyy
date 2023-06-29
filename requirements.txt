@@ -1,0 +1,5 @@
+Command php in package php
+ Command pil in package picolisp
+ Command pup in package pup
+ Command ip in package termux-tools
+ Command zip in package zip
